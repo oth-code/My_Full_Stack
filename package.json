@@ -1,0 +1,26 @@
+{
+  "name": "my_full_stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oth-code/My_Full_Stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oth-code/My_Full_Stack/issues"
+  },
+  "homepage": "https://github.com/oth-code/My_Full_Stack#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
